@@ -1,0 +1,906 @@
+﻿Logging In [Thu Feb 08 08:39:27 2024] 
+Logging In [Thu Feb 08 13:32:48 2024] 
+Logging In [Thu Feb 08 20:04:25 2024] 
+Logging In [Sun Feb 11 13:30:36 2024] 
+Logging In [Tue Feb 13 10:21:34 2024] 
+Logging In [Tue Feb 13 15:56:09 2024] 
+Logging In [Sat Feb 17 19:12:51 2024] 
+Logging In [Sat Feb 17 22:57:53 2024] 
+Logging In [Sun Feb 18 09:07:21 2024] 
+Logging In [Sun Feb 18 12:43:39 2024] 
+Logging In [Sun Feb 18 17:34:46 2024] 
+Logging In [Mon Feb 19 10:48:31 2024] 
+Logging In [Mon Feb 19 12:07:29 2024] 
+Logging In [Mon Feb 19 16:35:18 2024] 
+Logging In [Mon Feb 19 18:51:55 2024] 
+Logging In [Tue Feb 20 20:29:30 2024] 
+Logging In [Wed Feb 21 09:01:46 2024] 
+Logging In [Wed Feb 21 20:43:20 2024] 
+Logging In [Wed Feb 21 21:42:56 2024] 
+Logging In [Wed Feb 28 08:16:18 2024] 
+Logging In [Thu Feb 29 13:14:27 2024] 
+Logging In [Sat Mar 02 09:25:59 2024] 
+Logging In [Wed Mar 06 07:31:30 2024] 
+Logging In [Wed Mar 06 09:54:29 2024] 
+Logging In [Wed Mar 06 09:57:48 2024] 
+Logging In [Thu Mar 07 08:08:26 2024] 
+Logging In [Sat Mar 09 21:37:08 2024] 
+Logging In [Mon Mar 11 07:55:58 2024] 
+Logging In [Wed Mar 13 09:28:51 2024] 
+Logging In [Thu Mar 14 11:45:15 2024] 
+Logging In [Thu Mar 14 21:27:40 2024] 
+Logging In [Fri Mar 15 06:23:41 2024] 
+Logging In [Fri Mar 15 10:51:59 2024] 
+Logging In [Fri Mar 15 11:10:01 2024] 
+Logging In [Fri Mar 15 11:43:26 2024] 
+Logging In [Sat Mar 16 08:11:32 2024] 
+Logging In [Sat Mar 16 10:09:58 2024] 
+Logging In [Sat Mar 16 20:31:38 2024] 
+Logging In [Sun Mar 17 08:15:03 2024] 
+Logging In [Sun Mar 17 09:32:16 2024] 
+Logging In [Sun Mar 17 13:27:21 2024] 
+Logging In [Sun Mar 17 20:48:47 2024] 
+Logging In [Sun Mar 17 21:41:38 2024] 
+Logging In [Mon Mar 18 06:22:07 2024] 
+Logging In [Mon Mar 18 06:44:02 2024] 
+Logging In [Mon Mar 18 08:15:45 2024] 
+Logging In [Mon Mar 18 21:24:24 2024] 
+Logging In [Mon Mar 18 21:27:32 2024] 
+Logging In [Tue Mar 19 08:25:08 2024] 
+Logging In [Wed Mar 20 07:36:55 2024] 
+Logging In [Wed Mar 20 08:42:07 2024] 
+Logging In [Wed Mar 20 09:14:44 2024] 
+Logging In [Thu Mar 21 07:20:36 2024] 
+Logging In [Fri Mar 22 10:11:03 2024] 
+Logging In [Fri Mar 22 10:50:13 2024] 
+Logging In [Fri Mar 22 13:59:12 2024] 
+Logging In [Fri Mar 22 18:18:50 2024] 
+Logging In [Fri Mar 22 21:02:43 2024] 
+Logging In [Fri Mar 22 21:21:00 2024] 
+Logging In [Sat Mar 23 07:38:59 2024] 
+Logging In [Sat Mar 23 07:47:21 2024] 
+Logging In [Sat Mar 23 12:52:31 2024] 
+Logging In [Sat Mar 23 13:52:52 2024] 
+Logging In [Sat Mar 23 19:09:56 2024] 
+Logging In [Sat Mar 23 19:16:53 2024] 
+Logging In [Sun Mar 24 06:47:18 2024] 
+Logging In [Sun Mar 24 07:13:09 2024] 
+Logging In [Sun Mar 24 07:15:03 2024] 
+Logging In [Sun Mar 24 12:04:35 2024] 
+Logging In [Sun Mar 24 12:21:31 2024] 
+Logging In [Mon Mar 25 06:43:55 2024] 
+Logging In [Mon Mar 25 08:14:24 2024] 
+Logging In [Mon Mar 25 09:13:07 2024] 
+Logging In [Mon Mar 25 11:01:49 2024] 
+Logging In [Tue Mar 26 07:53:47 2024] 
+Logging In [Tue Mar 26 19:11:06 2024] 
+Logging In [Wed Mar 27 08:27:49 2024] 
+Logging In [Wed Mar 27 08:31:08 2024] 
+Logging In [Wed Mar 27 08:52:53 2024] 
+Logging In [Wed Mar 27 08:57:24 2024] 
+Logging In [Wed Mar 27 09:56:28 2024] 
+Logging In [Wed Mar 27 17:57:40 2024] 
+Logging In [Thu Mar 28 06:31:37 2024] 
+Logging In [Fri Mar 29 13:37:59 2024] 
+Logging In [Fri Mar 29 18:02:35 2024] 
+Logging In [Fri Mar 29 18:34:14 2024] 
+Logging In [Sun Mar 31 09:00:02 2024] 
+Logging In [Sun Mar 31 11:13:38 2024] 
+Logging In [Sun Mar 31 11:34:27 2024] 
+Logging In [Sun Mar 31 20:28:35 2024] 
+Logging In [Mon Apr 01 08:30:31 2024] 
+Logging In [Mon Apr 01 21:24:15 2024] 
+Logging In [Tue Apr 02 06:45:10 2024] 
+Logging In [Tue Apr 02 08:18:05 2024] 
+Logging In [Tue Apr 02 08:22:23 2024] 
+Logging In [Tue Apr 02 09:02:39 2024] 
+Logging In [Wed Apr 03 08:23:20 2024] 
+Logging In [Thu Apr 04 07:10:02 2024] 
+Logging In [Thu Apr 04 20:46:24 2024] 
+Logging In [Sun Apr 07 08:55:23 2024] 
+Logging In [Sun Apr 07 09:30:20 2024] 
+Logging In [Sun Apr 07 13:53:04 2024] 
+Logging In [Mon Apr 08 07:23:36 2024] 
+Logging In [Mon Apr 08 08:01:52 2024] 
+Logging In [Mon Apr 08 08:11:13 2024] 
+Logging In [Mon Apr 08 08:15:36 2024] 
+Logging In [Tue Apr 09 07:50:11 2024] 
+Logging In [Wed Apr 10 20:38:17 2024] 
+Logging In [Thu Apr 11 11:38:46 2024] 
+Logging In [Fri Apr 12 06:38:48 2024] 
+Logging In [Fri Apr 12 17:14:15 2024] 
+Logging In [Fri Apr 12 20:18:14 2024] 
+Logging In [Fri Apr 12 21:12:51 2024] 
+Logging In [Sat Apr 13 09:28:37 2024] 
+Logging In [Sat Apr 13 10:21:58 2024] 
+Logging In [Sat Apr 13 13:31:53 2024] 
+Logging In [Sat Apr 13 18:34:39 2024] 
+Logging In [Sun Apr 14 07:53:06 2024] 
+Logging In [Sun Apr 14 08:00:12 2024] 
+Logging In [Sun Apr 14 08:05:45 2024] 
+Logging In [Mon Apr 15 07:02:54 2024] 
+Logging In [Mon Apr 15 07:14:26 2024] 
+Logging In [Mon Apr 15 08:28:58 2024] 
+Logging In [Tue Apr 16 06:50:35 2024] 
+Logging In [Tue Apr 16 07:05:32 2024] 
+Logging In [Tue Apr 16 07:42:37 2024] 
+Logging In [Tue Apr 16 09:04:57 2024] 
+Logging In [Wed Apr 17 06:25:16 2024] 
+Logging In [Wed Apr 17 07:25:55 2024] 
+Logging In [Wed Apr 17 10:27:57 2024] 
+Logging In [Wed Apr 17 18:05:52 2024] 
+Logging In [Thu Apr 18 06:40:56 2024] 
+Logging In [Fri Apr 19 08:03:55 2024] 
+Logging In [Fri Apr 19 08:31:18 2024] 
+Logging In [Sat Apr 20 18:08:25 2024] 
+Logging In [Sun Apr 21 06:40:19 2024] 
+Logging In [Sun Apr 21 06:41:19 2024] 
+Logging In [Sun Apr 21 07:36:19 2024] 
+Logging In [Sun Apr 21 07:45:02 2024] 
+Logging In [Tue Apr 23 07:54:36 2024] 
+Logging In [Tue Apr 23 08:50:56 2024] 
+Logging In [Tue Apr 23 17:00:36 2024] 
+Logging In [Wed Apr 24 08:36:47 2024] 
+Logging In [Wed Apr 24 10:42:04 2024] 
+Logging In [Wed Apr 24 16:53:05 2024] 
+Logging In [Wed Apr 24 21:19:06 2024] 
+Logging In [Thu Apr 25 06:08:29 2024] 
+Logging In [Thu Apr 25 07:08:40 2024] 
+Logging In [Thu Apr 25 19:12:17 2024] 
+Logging In [Thu Apr 25 19:21:51 2024] 
+Logging In [Thu Apr 25 19:29:56 2024] 
+Logging In [Thu Apr 25 19:59:20 2024] 
+[Chat]  21:04:18 Chat logging ON
+[Chat]  21:04:18 Current chat log file size: 5 KB
+[Chat]  21:04:23 No bounty is offered on that target.
+[Chat]  21:04:23 No bounty is offered on that target.
+[Chat]  21:04:24 No bounty is offered on that target.
+[Chat]  21:04:26 The target is a dangerous fugitive in disguise!
+[Combat]  21:04:26 Burr El (Fugitive: Murderer) misses (dodge)
+[Combat]  21:04:28 Burr El (Fugitive: Murderer) misses
+[Combat]  21:04:30 Burr El (Fugitive: Murderer) hits (blocked) Uxi 0 pts
+[Combat]  21:04:31 Burr El (Fugitive: Murderer) hits (blocked) Uxi 0 pts
+[Combat]  21:04:32 Burr El (Fugitive: Murderer) hits (blocked) Uxi 0 pts
+[Combat]  21:04:34 Burr El (Fugitive: Murderer) misses (dodge)
+[Combat]  21:04:35 Uxi hits Burr El (Fugitive: Murderer) 1226 pts
+[Combat]  21:04:35 Uxi crits a Frosch Researcher 1752 pts
+[Combat]  21:04:35 A Frosch Researcher misses (dodge)
+[Combat]  21:04:36 Burr El (Fugitive: Murderer) hits (blocked) Uxi 0 pts
+[Combat]  21:04:37 Uxi misses
+[Combat]  21:04:37 Uxi has caused a Frosch Researcher to take 696 points of fire damage. (150 absorbed)
+[Combat]  21:04:37 Uxi crits Burr El (Fugitive: Murderer) 4979 pts
+[Combat]  21:04:37 Burr El (Fugitive: Murderer) hits (blocked) Uxi 0 pts
+[Combat]  21:04:38 Uxi strikes through Burr El (Fugitive: Murderer) 3171 pts
+[Combat]  21:04:38 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:04:38 Uxi hits Burr El (Fugitive: Murderer) 1351 pts
+[Combat]  21:04:38 Uxi hits (evaded) a Frosch Researcher 758 pts
+[Combat]  21:04:38 Burr El (Fugitive: Murderer) misses (dodge)
+[Combat]  21:04:38 Uxi performs Razor Net (Mark 3).
+[Combat]  21:04:39 Uxi crits Burr El (Fugitive: Murderer) 1374 pts
+[Combat]  21:04:40 Uxi has caused a Frosch Researcher to take 696 points of fire damage. (150 absorbed)
+[Combat]  21:04:40 Uxi has caused Burr El (Fugitive: Murderer) to take 708 points of fire damage. (150 absorbed)
+[Combat]  21:04:40 Uxi hits Burr El (Fugitive: Murderer) 1229 pts
+[Combat]  21:04:40 Uxi hits (blocked) a Frosch Researcher 925 pts
+[Combat]  21:04:40 Burr El (Fugitive: Murderer) hits (blocked) Uxi 0 pts
+[Combat]  21:04:40 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:04:41 Uxi crits a Frosch Researcher 335 pts
+[Combat]  21:04:41 A Frosch Researcher misses (dodge)
+[Combat]  21:04:41 Uxi snaps off a free shot!
+[Combat]  21:04:41 Uxi crits Burr El (Fugitive: Murderer) 66 pts
+[Combat]  21:04:41 Uxi strikes through Burr El (Fugitive: Murderer) 1996 pts
+[Chat]  21:04:42 Transmission from the Bounty Hunters Guild: Completion of bounty confirmed, payment has been wired to your account.
+[Combat]  21:04:42 A Frosch Researcher misses (dodge)
+[Combat]  21:04:42 Uxi strikes through Burr El (Fugitive: Murderer) 196 pts
+[Combat]  21:04:42 Uxi crits Burr El (Fugitive: Murderer) 5238 pts
+[Chat]  21:04:42 You have completely looted the corpse of all items.
+[Combat]  21:04:42 A Frosch Researcher misses (dodge)
+[Chat]  21:04:42 You looted 500 credits.
+[Combat]  21:04:43 Uxi has caused a Frosch Researcher to take 696 points of fire damage. (150 absorbed)
+[Combat]  21:04:43 Uxi has caused a Frosch Researcher to take 471 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Combat]  21:04:43 Uxi hits (evaded) a Frosch Researcher 258 pts
+[Combat]  21:04:43 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:04:44 A Frosch Researcher misses (dodge)
+[Combat]  21:04:44 A Frosch Researcher misses (dodge)
+[Combat]  21:04:45 Uxi hits a Frosch Researcher 926 pts
+[Combat]  21:04:45 Uxi has caused a Frosch Researcher to take 471 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Combat]  21:04:45 Uxi crits a Frosch Researcher 347 pts
+[Combat]  21:04:45 A Frosch Researcher misses (dodge)
+[Combat]  21:04:45 Uxi snaps off a free shot!
+[Combat]  21:04:45 Uxi strikes through a Frosch Researcher 18 pts
+[Combat]  21:04:45 Uxi crits a Frosch Researcher 3901 pts
+[Combat]  21:04:45 Uxi has caused a Frosch Researcher to take 480 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Combat]  21:04:46 Uxi hits a Frosch Researcher 1003 pts
+[Combat]  21:04:46 A Frosch Researcher misses (dodge)
+[Combat]  21:04:46 Uxi hits a Frosch Researcher 1592 pts
+[Combat]  21:04:46 A Frosch Researcher misses (dodge)
+[Combat]  21:04:47 Uxi has caused a Frosch Researcher to take 480 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Combat]  21:04:47 Uxi has caused a Frosch Researcher to take 471 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Combat]  21:04:47 Uxi crits a Frosch Researcher 332 pts
+[Combat]  21:04:47 Uxi hits (blocked) a Frosch Researcher 111 pts
+[Combat]  21:04:47 Uxi hits a Frosch Researcher 1522 pts
+[Combat]  21:04:47 Uxi crits a Frosch Researcher 2108 pts
+[Combat]  21:04:47 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:04:48 Uxi has caused a Frosch Researcher to take 660 points of fire damage. (140 absorbed)
+[Combat]  21:04:48 Uxi has caused a Frosch Researcher to take 480 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Combat]  21:04:48 A Frosch Researcher misses (dodge)
+[Combat]  21:04:48 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:04:49 Uxi has caused a Frosch Researcher to take 480 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Combat]  21:04:49 Uxi has caused a Frosch Researcher to take 471 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Combat]  21:04:49 Uxi has caused a Frosch Researcher to take 324 points of fire damage. (70 absorbed)
+[Combat]  21:04:49 Uxi hits (blocked) a Frosch Researcher 1095 pts
+[Combat]  21:04:49 Uxi crits a Frosch Researcher 1975 pts
+[Combat]  21:04:49 A Frosch Researcher misses (dodge)
+[Combat]  21:04:50 A Frosch Researcher misses (dodge)
+[Combat]  21:04:50 Uxi hits a Frosch Researcher 906 pts
+[Combat]  21:04:51 Uxi has caused a Frosch Researcher to take 471 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Combat]  21:04:51 Uxi has caused a Frosch Researcher to take 649 points of fire damage. (140 absorbed)
+[Combat]  21:04:51 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:04:51 Uxi hits a Frosch Researcher 155 pts
+[Combat]  21:04:51 Uxi crits a Frosch Researcher 4166 pts
+[Combat]  21:04:52 Uxi crits a Frosch Researcher 3401 pts
+[Combat]  21:04:52 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:04:52 Uxi crits a Frosch Researcher 1882 pts
+[Combat]  21:04:53 Uxi has caused a Frosch Researcher to take 480 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Combat]  21:04:53 Uxi has caused a Frosch Researcher to take 660 points of fire damage. (140 absorbed)
+[Combat]  21:04:53 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:04:54 Uxi crits a Frosch Researcher 1913 pts
+[Chat]  21:04:54 You have completely looted the corpse of all items.
+[Chat]  21:04:54 You looted 1 credits.
+[Chat]  21:04:54 You find nothing else of value on the selected corpse.
+[Combat]  21:04:55 A Frosch Researcher misses (dodge)
+[Combat]  21:04:56 Uxi hits a Frosch Researcher 1262 pts
+[Combat]  21:04:56 Uxi crits a Frosch Researcher 3023 pts
+[Combat]  21:04:57 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:04:57 Uxi hits a Frosch Researcher 3337 pts
+[Combat]  21:04:58 Uxi hits a Frosch Researcher 1725 pts
+[Combat]  21:04:58 Uxi hits a Frosch Researcher 958 pts
+[Chat]  21:04:58 You have completely looted the corpse of all items.
+[Chat]  21:04:58 You looted 1 credits.
+[Chat]  21:04:58 You cannot do that while in combat.
+[Combat]  21:04:59 Uxi has caused a Frosch Researcher to take 708 points of fire damage. (150 absorbed)
+[Combat]  21:04:59 Uxi hits (blocked) a Frosch Researcher 743 pts
+[Combat]  21:04:59 A Frosch Researcher misses (dodge)
+[Combat]  21:05:00 Uxi has caused a Frosch Researcher to take 330 points of fire damage. (70 absorbed)
+[Combat]  21:05:00 Uxi crits a Frosch Researcher 1558 pts
+[Combat]  21:05:01 Uxi hits a Frosch Researcher 952 pts
+[Combat]  21:05:01 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:05:02 Uxi has caused a Frosch Researcher to take 330 points of fire damage. (70 absorbed)
+[Combat]  21:05:02 Uxi has caused a Frosch Researcher to take 708 points of fire damage. (150 absorbed)
+[Combat]  21:05:02 Uxi crits a Frosch Researcher 2267 pts
+[Combat]  21:05:02 Uxi strikes through a Frosch Researcher 4726 pts
+[Chat]  21:05:03 You have completely looted the corpse of all items.
+[Chat]  21:05:03 You looted 1 credits.
+[Chat]  21:05:03 You find nothing else of value on the selected corpse.
+[Chat]  21:05:03 You find nothing else of value on the selected corpse.
+[Chat]  21:05:04 You find nothing else of value on the selected corpse.
+[Chat]  21:05:04 corpse of a Frosch Researcher is too far away to 'Loot'.
+[Chat]  21:05:04 You find nothing else of value on the selected corpse.
+[Chat]  21:05:08 You have destroyed Unknown Crystal Fragment 3/10 (Collection).
+[Combat]  21:06:24 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:06:26 A Frosch Researcher misses (dodge)
+[Combat]  21:06:27 A Frosch Researcher misses
+[Chat]  21:06:27 No bounty is offered on that target.
+[Combat]  21:06:28 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Chat]  21:06:28 No bounty is offered on that target.
+[Combat]  21:06:29 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Chat]  21:06:29 No bounty is offered on that target.
+[Combat]  21:06:30 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Chat]  21:06:30 You have already checked that target.
+[Combat]  21:06:31 A Frosch Researcher strikes through Uxi 0 pts
+[Chat]  21:06:31 No bounty is offered on that target.
+[Combat]  21:06:32 A Frosch Researcher misses (dodge)
+[Combat]  21:06:33 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:06:34 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:06:35 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:06:35 Uxi hits a Frosch Researcher 934 pts
+[Combat]  21:06:35 Uxi hits a Frosch Researcher 151 pts
+[Combat]  21:06:35 Uxi hits a Frosch Researcher 2240 pts
+[Combat]  21:06:36 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:06:36 Uxi hits (evaded) a Frosch Researcher 1045 pts
+[Combat]  21:06:36 Uxi crits a Frosch Researcher 1799 pts
+[Combat]  21:06:37 Uxi snaps off a free shot!
+[Combat]  21:06:37 Uxi hits a Frosch Researcher 152 pts
+[Combat]  21:06:37 Uxi hits (blocked) a Frosch Researcher 556 pts
+[Combat]  21:06:37 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:06:37 Uxi hits (evaded) a Frosch Researcher 682 pts
+[Combat]  21:06:38 Uxi has caused a Frosch Researcher to take 991 points of fire damage. (210 absorbed)
+[Combat]  21:06:38 Uxi has caused a Frosch Researcher to take 708 points of fire damage. (150 absorbed)
+[Combat]  21:06:38 A Frosch Researcher misses (dodge)
+[Combat]  21:06:38 Uxi performs Razor Net (Mark 3).
+[Combat]  21:06:38 Uxi hits (blocked) a Frosch Researcher 125 pts
+[Combat]  21:06:39 A Frosch Researcher strikes through Uxi 0 pts
+[Combat]  21:06:39 Uxi hits a Frosch Researcher 1731 pts
+[Combat]  21:06:40 Uxi hits a Frosch Researcher 3601 pts
+[Combat]  21:06:40 Uxi has caused a Frosch Researcher to take 480 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Combat]  21:06:40 Uxi hits a Frosch Researcher 307 pts
+[Combat]  21:06:40 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:06:41 Uxi has caused a Frosch Researcher to take 991 points of fire damage. (210 absorbed)
+[Combat]  21:06:41 Uxi has caused a Frosch Researcher to take 708 points of fire damage. (150 absorbed)
+[Combat]  21:06:41 Uxi has caused a Frosch Researcher to take 480 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Combat]  21:06:41 Uxi hits (evaded) a Frosch Researcher 959 pts
+[Combat]  21:06:41 Uxi hits (evaded) a Frosch Researcher 749 pts
+[Chat]  21:06:41 You have completely looted the corpse of all items.
+[Chat]  21:06:41 You looted 1 credits.
+[Chat]  21:06:42 You find nothing else of value on the selected corpse.
+[Chat]  21:06:42 You find nothing else of value on the selected corpse.
+[Combat]  21:06:42 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Chat]  21:06:42 You find nothing else of value on the selected corpse.
+[Combat]  21:06:42 Uxi hits a Frosch Researcher 1203 pts
+[Chat]  21:06:42 You find nothing else of value on the selected corpse.
+[Combat]  21:06:43 Uxi hits a Frosch Researcher 1417 pts
+[Combat]  21:06:44 Uxi has caused a Frosch Researcher to take 649 points of fire damage. (140 absorbed)
+[Combat]  21:06:44 A Frosch Researcher misses (dodge)
+[Combat]  21:06:44 Uxi strikes through a Frosch Researcher 4518 pts
+[Combat]  21:06:45 Uxi hits a Frosch Researcher 1790 pts
+[Combat]  21:06:45 Uxi performs Killing Spree.
+[Combat]  21:06:46 A Frosch Researcher misses (dodge)
+[Combat]  21:06:46 Uxi hits a Frosch Researcher 2485 pts
+[Combat]  21:06:47 Uxi has caused a Frosch Researcher to take 660 points of fire damage. (140 absorbed)
+[Combat]  21:06:47 Uxi crits a Frosch Researcher 1908 pts
+[Combat]  21:06:48 Uxi hits a Frosch Researcher 3266 pts
+[Combat]  21:06:48 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:06:49 Uxi hits (evaded) a Frosch Researcher 976 pts
+[Combat]  21:06:49 Uxi crits a Frosch Researcher 420 pts
+[Combat]  21:06:49 Uxi crits a Frosch Researcher 588 pts
+[Combat]  21:06:49 Uxi hits a Frosch Researcher 451 pts
+[Chat]  21:06:50 You have completely looted the corpse of all items.
+[Chat]  21:06:50 You looted 1 credits.
+[Chat]  21:06:50 You find nothing else of value on the selected corpse.
+[Chat]  21:06:50 You find nothing else of value on the selected corpse.
+[Chat]  21:06:51 You find nothing else of value on the selected corpse.
+[Combat]  21:06:51 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:06:51 Uxi crits a Frosch Researcher 2471 pts
+[Chat]  21:06:51 You find nothing else of value on the selected corpse.
+[Combat]  21:06:51 Uxi hits a Frosch Researcher 936 pts
+[Combat]  21:06:51 Uxi strikes through a Frosch Researcher 499 pts
+[Combat]  21:06:51 Uxi hits a Frosch Researcher 506 pts
+[Combat]  21:06:51 Uxi crits a Frosch Researcher 548 pts
+[Combat]  21:06:51 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Chat]  21:06:51 You find nothing else of value on the selected corpse.
+[Combat]  21:06:52 Uxi hits a Frosch Researcher 2656 pts
+[Combat]  21:06:52 Uxi hits a Frosch Researcher 157 pts
+[Combat]  21:06:52 Uxi hits a Frosch Researcher 469 pts
+[Combat]  21:06:52 Uxi strikes through a Frosch Researcher 474 pts
+[Combat]  21:06:52 Uxi strikes through a Frosch Researcher 606 pts
+[Combat]  21:06:52 Uxi hits a Frosch Researcher 3252 pts
+[Combat]  21:06:53 A Frosch Researcher misses (dodge)
+[Combat]  21:06:53 Uxi has caused a Frosch Researcher to take 708 points of fire damage. (150 absorbed)
+[Combat]  21:06:53 Uxi has caused a Frosch Researcher to take 330 points of fire damage. (70 absorbed)
+[Combat]  21:06:53 Uxi hits a Frosch Researcher 1782 pts
+[Combat]  21:06:53 Uxi hits a Frosch Researcher 526 pts
+[Combat]  21:06:53 Uxi crits a Frosch Researcher 632 pts
+[Combat]  21:06:53 Uxi crits a Frosch Researcher 486 pts
+[Combat]  21:06:53 A Frosch Researcher misses
+[Combat]  21:06:53 Uxi strikes through a Frosch Researcher 2035 pts
+[Combat]  21:06:54 Uxi hits (evaded) a Frosch Researcher 665 pts
+[Combat]  21:06:54 Uxi hits a Frosch Researcher 492 pts
+[Combat]  21:06:54 Uxi hits (blocked) a Frosch Researcher 259 pts
+[Combat]  21:06:54 Uxi hits a Frosch Researcher 435 pts
+[Combat]  21:06:55 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:06:55 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:06:56 Uxi has caused a Frosch Researcher to take 696 points of fire damage. (150 absorbed)
+[Combat]  21:06:56 Uxi has caused a Frosch Researcher to take 708 points of fire damage. (150 absorbed)
+[Combat]  21:06:56 Uxi has caused a Frosch Researcher to take 330 points of fire damage. (70 absorbed)
+[Combat]  21:06:56 Uxi crits a Frosch Researcher 1565 pts
+[Combat]  21:06:56 Uxi hits a Frosch Researcher 385 pts
+[Combat]  21:06:56 Uxi crits a Frosch Researcher 549 pts
+[Combat]  21:06:56 Uxi crits a Frosch Researcher 584 pts
+[Chat]  21:06:57 You have completely looted the corpse of all items.
+[Chat]  21:06:57 You looted 1 credits.
+[Chat]  21:06:57 You find nothing else of value on the selected corpse.
+[Chat]  21:06:57 You find nothing else of value on the selected corpse.
+[Combat]  21:06:57 A Frosch Researcher misses (dodge)
+[Combat]  21:06:58 Uxi has caused a Frosch Researcher to take 696 points of fire damage. (150 absorbed)
+[Combat]  21:06:59 Uxi hits a Frosch Researcher 1750 pts
+[Combat]  21:06:59 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:07:00 Uxi strikes through a Frosch Researcher 4385 pts
+[Combat]  21:07:00 Uxi hits (blocked) a Frosch Researcher 656 pts
+[Combat]  21:07:00 Uxi hits a Frosch Researcher 504 pts
+[Combat]  21:07:00 Uxi hits (blocked) a Frosch Researcher 226 pts
+[Combat]  21:07:01 Uxi has caused a Frosch Researcher to take 696 points of fire damage. (150 absorbed)
+[Combat]  21:07:01 Uxi has caused a Frosch Researcher to take 324 points of fire damage. (70 absorbed)
+[Combat]  21:07:01 Uxi strikes through a Frosch Researcher 214 pts
+[Combat]  21:07:01 Uxi crits a Frosch Researcher 3373 pts
+[Combat]  21:07:01 A Frosch Researcher misses (dodge)
+[Combat]  21:07:02 Uxi hits a Frosch Researcher 1273 pts
+[Combat]  21:07:02 Uxi crits a Frosch Researcher 1563 pts
+[Chat]  21:07:02 You have completely looted the corpse of all items.
+[Chat]  21:07:02 You looted 1 credits.
+[Chat]  21:07:02 You find nothing else of value on the selected corpse.
+[Chat]  21:07:03 You find nothing else of value on the selected corpse.
+[Chat]  21:07:03 You find nothing else of value on the selected corpse.
+[Chat]  21:07:03 You find nothing else of value on the selected corpse.
+[Combat]  21:07:07 A Frosch Researcher misses (dodge)
+[Combat]  21:07:07 Uxi hits a Frosch Researcher 1933 pts
+[Combat]  21:07:07 Uxi snaps off a free shot!
+[Combat]  21:07:07 Uxi misses
+[Combat]  21:07:07 Uxi hits a Frosch Researcher 3097 pts
+[Combat]  21:07:08 Uxi hits a Frosch Researcher 1256 pts
+[Combat]  21:07:08 Uxi hits a Frosch Researcher 155 pts
+[Combat]  21:07:08 Uxi hits a Frosch Researcher 1631 pts
+[Combat]  21:07:09 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:07:10 Uxi hits (evaded) a Frosch Researcher 1048 pts
+[Combat]  21:07:11 Uxi has caused a Frosch Researcher to take 324 points of fire damage. (70 absorbed)
+[Combat]  21:07:11 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:07:11 Uxi hits (evaded) a Frosch Researcher 1222 pts
+[Combat]  21:07:11 Uxi crits a Frosch Researcher 198 pts
+[Combat]  21:07:11 Uxi hits a Frosch Researcher 3537 pts
+[Combat]  21:07:13 Uxi hits a Frosch Researcher 1942 pts
+[Combat]  21:07:13 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:07:14 Uxi has caused a Frosch Researcher to take 324 points of fire damage. (70 absorbed)
+[Combat]  21:07:14 Uxi hits a Frosch Researcher 1275 pts
+[Chat]  21:07:14 You have completely looted the corpse of all items.
+[Chat]  21:07:14 You looted 1 credits.
+[Chat]  21:07:14 You find nothing else of value on the selected corpse.
+[Chat]  21:07:15 You find nothing else of value on the selected corpse.
+[Chat]  21:07:15 You find nothing else of value on the selected corpse.
+[Chat]  21:07:15 You find nothing on the corpse worth taking.
+[Chat]  21:07:17 No bounty is offered on that target.
+[Chat]  21:07:21 No bounty is offered on that target.
+[Chat]  21:07:22 No bounty is offered on that target.
+[Chat]  21:07:23 No bounty is offered on that target.
+[Combat]  21:07:24 That target is out of range.
+[Chat]  21:07:27 No bounty is offered on that target.
+[Combat]  21:07:28 A Frosch Guard misses (dodge)
+[Combat]  21:07:28 Uxi crits a Frosch Guard 1466 pts
+[Combat]  21:07:28 Uxi hits a Frosch Researcher 919 pts
+[Combat]  21:07:29 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:07:29 Uxi crits a Frosch Guard 3168 pts
+[Combat]  21:07:30 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:07:30 Uxi performs Killing Spree.
+[Combat]  21:07:31 A Frosch Guard hits (blocked) Uxi 0 pts
+[Combat]  21:07:31 Uxi hits a Frosch Guard 1468 pts
+[Combat]  21:07:32 A Frosch Researcher misses (dodge)
+[Combat]  21:07:32 Uxi hits a Frosch Guard 1001 pts
+[Combat]  21:07:32 Uxi crits a Frosch Researcher 459 pts
+[Combat]  21:07:32 Uxi hits (blocked) a Frosch Researcher 307 pts
+[Combat]  21:07:32 Uxi hits a Frosch Guard 491 pts
+[Combat]  21:07:32 A Frosch Researcher misses (dodge)
+[Combat]  21:07:32 A Frosch Researcher misses (dodge)
+[Combat]  21:07:32 Uxi hits a Frosch Guard 2976 pts
+[Combat]  21:07:33 A Frosch Guard misses (dodge)
+[Combat]  21:07:34 Uxi crits a Frosch Guard 1483 pts
+[Combat]  21:07:34 Uxi crits a Frosch Researcher 527 pts
+[Combat]  21:07:34 Uxi strikes through a Frosch Researcher 645 pts
+[Combat]  21:07:34 Uxi hits a Frosch Researcher 469 pts
+[Combat]  21:07:34 Uxi has caused a Frosch Guard to take 330 points of fire damage. (70 absorbed)
+[Combat]  21:07:34 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:07:34 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:07:34 Uxi crits a Frosch Guard 3194 pts
+[Combat]  21:07:35 A Frosch Guard hits (blocked) Uxi 0 pts
+[Combat]  21:07:35 Uxi hits (blocked) a Frosch Guard 1575 pts
+[Combat]  21:07:35 Uxi strikes through a Frosch Researcher 618 pts
+[Combat]  21:07:35 Uxi crits a Frosch Researcher 614 pts
+[Combat]  21:07:35 Uxi crits a Frosch Researcher 586 pts
+[Combat]  21:07:36 A Frosch Researcher misses (dodge)
+[Combat]  21:07:36 A Frosch Researcher misses (dodge)
+[Combat]  21:07:36 Uxi hits a Frosch Guard 1208 pts
+[Combat]  21:07:36 Uxi crits a Frosch Researcher 641 pts
+[Combat]  21:07:36 Uxi hits a Frosch Researcher 442 pts
+[Combat]  21:07:36 Uxi hits a Frosch Guard 484 pts
+[Combat]  21:07:36 Uxi hits (blocked) a Frosch Guard 1396 pts
+[Combat]  21:07:36 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:07:37 A Frosch Guard misses (dodge)
+[Combat]  21:07:37 Uxi has caused a Frosch Guard to take 1008 points of fire damage. (210 absorbed)
+[Combat]  21:07:37 Uxi crits a Frosch Guard 2330 pts
+[Combat]  21:07:37 Uxi crits a Frosch Researcher 2708 pts
+[Combat]  21:07:37 Uxi hits (blocked) a Frosch Researcher 338 pts
+[Combat]  21:07:37 Uxi strikes through a Frosch Guard 537 pts
+[Combat]  21:07:37 Uxi crits a Frosch Researcher 666 pts
+[Chat]  21:07:37 You have completely looted the corpse of all items.
+[Chat]  21:07:37 You looted 1 credits.
+[Chat]  21:07:38 You find nothing else of value on the selected corpse.
+[Combat]  21:07:38 Uxi has caused a Frosch Researcher to take 696 points of fire damage. (150 absorbed)
+[Combat]  21:07:38 A Frosch Researcher misses (dodge)
+[Combat]  21:07:38 A Frosch Researcher misses (dodge)
+[Chat]  21:07:38 You find nothing else of value on the selected corpse.
+[Combat]  21:07:38 A Frosch Researcher misses (dodge)
+[Combat]  21:07:38 Uxi hits (evaded) a Frosch Researcher 989 pts
+[Combat]  21:07:38 Uxi hits a Frosch Researcher 479 pts
+[Combat]  21:07:38 Uxi strikes through a Frosch Researcher 431 pts
+[Combat]  21:07:38 Uxi crits a Frosch Researcher 434 pts
+[Chat]  21:07:38 You find nothing else of value on the selected corpse.
+[Combat]  21:07:39 Uxi strikes through a Frosch Researcher 2004 pts
+[Combat]  21:07:40 A Frosch Researcher misses (dodge)
+[Combat]  21:07:40 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:07:40 Uxi hits a Frosch Researcher 3144 pts
+[Combat]  21:07:40 A Frosch Researcher misses (dodge)
+[Combat]  21:07:40 Uxi hits a Frosch Researcher 1193 pts
+[Combat]  21:07:40 Uxi hits a Frosch Researcher 528 pts
+[Combat]  21:07:40 Uxi hits a Frosch Researcher 385 pts
+[Combat]  21:07:40 Uxi crits a Frosch Researcher 656 pts
+[Combat]  21:07:41 Uxi hits a Frosch Researcher 157 pts
+[Combat]  21:07:41 Uxi hits a Frosch Researcher 456 pts
+[Combat]  21:07:41 Uxi hits a Frosch Researcher 448 pts
+[Combat]  21:07:41 Uxi hits a Frosch Researcher 532 pts
+[Combat]  21:07:41 Uxi hits a Frosch Researcher 2285 pts
+[Combat]  21:07:41 Uxi has caused a Frosch Researcher to take 696 points of fire damage. (150 absorbed)
+[Combat]  21:07:41 Uxi strikes through a Frosch Researcher 1032 pts
+[Combat]  21:07:42 Uxi has caused a Frosch Researcher to take 330 points of fire damage. (70 absorbed)
+[Combat]  21:07:42 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:07:42 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:07:42 Uxi hits a Frosch Researcher 1373 pts
+[Combat]  21:07:42 Uxi hits a Frosch Researcher 414 pts
+[Combat]  21:07:42 Uxi strikes through a Frosch Researcher 542 pts
+[Combat]  21:07:42 Uxi hits (blocked) a Frosch Researcher 290 pts
+[Combat]  21:07:42 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Chat]  21:07:43 You have completely looted the corpse of all items.
+[Combat]  21:07:43 Uxi crits a Frosch Researcher 2117 pts
+[Chat]  21:07:43 You looted 1 credits.
+[Chat]  21:07:43 You find nothing else of value on the selected corpse.
+[Chat]  21:07:43 You find nothing else of value on the selected corpse.
+[Combat]  21:07:44 Uxi hits (blocked) a Frosch Researcher 658 pts
+[Combat]  21:07:44 Uxi crits a Frosch Researcher 549 pts
+[Combat]  21:07:44 Uxi hits a Frosch Researcher 401 pts
+[Chat]  21:07:44 You find nothing else of value on the selected corpse.
+[Combat]  21:07:44 Uxi crits a Frosch Researcher 425 pts
+[Combat]  21:07:44 Uxi has caused a Frosch Researcher to take 696 points of fire damage. (150 absorbed)
+[Combat]  21:07:44 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Chat]  21:07:44 You find nothing else of value on the selected corpse.
+[Chat]  21:07:44 You find nothing else of value on the selected corpse.
+[Combat]  21:07:44 A Frosch Researcher misses (dodge)
+[Combat]  21:07:45 Uxi hits a Frosch Researcher 3405 pts
+[Combat]  21:07:45 Uxi hits a Frosch Researcher 1835 pts
+[Combat]  21:07:45 Uxi strikes through a Frosch Researcher 592 pts
+[Combat]  21:07:45 Uxi hits a Frosch Researcher 450 pts
+[Combat]  21:07:45 Uxi hits a Frosch Researcher 2721 pts
+[Combat]  21:07:46 A Frosch Researcher misses (dodge)
+[Combat]  21:07:47 Uxi has caused a Frosch Researcher to take 696 points of fire damage. (150 absorbed)
+[Combat]  21:07:48 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Chat]  21:07:48 You have already checked that target.
+[Combat]  21:07:49 Uxi has caused a Frosch Researcher to take 696 points of fire damage. (150 absorbed)
+[Combat]  21:07:49 A Frosch Researcher misses (dodge)
+[Combat]  21:07:49 Uxi hits a Frosch Researcher 1025 pts
+[Combat]  21:07:49 Uxi strikes through a Frosch Researcher 215 pts
+[Combat]  21:07:49 Uxi crits a Frosch Researcher 1913 pts
+[Combat]  21:07:50 Uxi hits a Frosch Researcher 3286 pts
+[Combat]  21:07:50 A Frosch Researcher misses (dodge)
+[Combat]  21:07:50 Uxi strikes through a Frosch Researcher 3457 pts
+[Combat]  21:07:51 Uxi has caused a Frosch Researcher to take 708 points of fire damage. (150 absorbed)
+[Combat]  21:07:51 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:07:51 Uxi hits (evaded) a Frosch Researcher 704 pts
+[Combat]  21:07:52 Uxi has caused a Frosch Researcher to take 696 points of fire damage. (150 absorbed)
+[Combat]  21:07:52 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:07:52 Uxi crits a Frosch Researcher 1873 pts
+[Combat]  21:07:53 A Frosch Researcher misses (dodge)
+[Combat]  21:07:53 Uxi hits a Frosch Researcher 1110 pts
+[Combat]  21:07:53 Uxi has caused a Frosch Researcher to take 708 points of fire damage. (150 absorbed)
+[Combat]  21:07:53 Uxi has caused a Frosch Researcher to take 330 points of fire damage. (70 absorbed)
+[Chat]  21:07:54 You have completely looted the corpse of all items.
+[Combat]  21:07:54 Uxi hits (blocked) a Frosch Researcher 1157 pts
+[Chat]  21:07:54 You looted 1 credits.
+[Combat]  21:07:54 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Chat]  21:07:54 You cannot do that while in combat.
+[Combat]  21:07:55 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:07:55 Uxi hits a Frosch Researcher 1154 pts
+[Combat]  21:07:56 Uxi has caused a Frosch Researcher to take 708 points of fire damage. (150 absorbed)
+[Combat]  21:07:56 Uxi has caused a Frosch Researcher to take 330 points of fire damage. (70 absorbed)
+[Chat]  21:07:56 You have completely looted the corpse of all items.
+[Chat]  21:07:56 You find nothing else of value on the selected corpse.
+[Chat]  21:07:56 You looted 1 credits.
+[Combat]  21:07:56 A Frosch Researcher misses (dodge)
+[Chat]  21:07:56 You cannot do that while in combat.
+[Chat]  21:07:56 You find nothing else of value on the selected corpse.
+[Combat]  21:07:58 Uxi hits a Frosch Researcher 1359 pts
+[Combat]  21:07:58 Uxi hits a Frosch Researcher 2493 pts
+[Combat]  21:07:58 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:07:59 Uxi hits (evaded) a Frosch Researcher 779 pts
+[Combat]  21:07:59 Uxi snaps off a free shot!
+[Combat]  21:07:59 Uxi crits a Frosch Researcher 2138 pts
+[Combat]  21:08:00 Uxi snaps off a free shot!
+[Combat]  21:08:00 Uxi crits a Frosch Researcher 1421 pts
+[Combat]  21:08:00 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:08:01 Uxi hits a Frosch Researcher 1109 pts
+[Combat]  21:08:01 Uxi has caused a Frosch Researcher to take 330 points of fire damage. (70 absorbed)
+[Combat]  21:08:02 Uxi hits a Frosch Researcher 1129 pts
+[Chat]  21:08:02 You have completely looted the corpse of all items.
+[Combat]  21:08:02 Uxi strikes through a Frosch Researcher 206 pts
+[Combat]  21:08:02 Uxi hits a Frosch Researcher 1833 pts
+[Chat]  21:08:02 You looted 1 credits.
+[Chat]  21:08:02 You find nothing else of value on the selected corpse.
+[Chat]  21:08:11 You have destroyed Unknown Crystal Fragment 8/10 (Collection).
+[Combat]  21:08:13 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Chat]  21:08:14 You have either already collected this item, or have not activated this collection yet.
+[Combat]  21:08:15 A Frosch Researcher misses (dodge)
+[Chat]  21:08:16 You cannot Transfer Item while Fighting.
+[Combat]  21:08:17 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:08:18 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Chat]  21:08:18 No bounty is offered on that target.
+[Combat]  21:08:19 A Frosch Researcher misses (dodge)
+[Chat]  21:08:19 No bounty is offered on that target.
+[Combat]  21:08:20 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:08:20 Uxi hits a Frosch Researcher 1881 pts
+[Combat]  21:08:20 Uxi misses
+[Combat]  21:08:21 Uxi hits a Frosch Researcher 3451 pts
+[Combat]  21:08:21 A Frosch Researcher misses (dodge)
+[Combat]  21:08:21 Uxi hits (evaded) a Frosch Researcher 993 pts
+[Combat]  21:08:21 Uxi crits a Frosch Researcher 2479 pts
+[Combat]  21:08:21 Uxi crits a Frosch Researcher 2043 pts
+[Combat]  21:08:22 A Frosch Researcher misses (dodge)
+[Combat]  21:08:22 Uxi performs Razor Net (Mark 3).
+[Combat]  21:08:23 Uxi has caused a Frosch Researcher to take 649 points of fire damage. (140 absorbed)
+[Combat]  21:08:23 Uxi has caused a Frosch Researcher to take 696 points of fire damage. (150 absorbed)
+[Combat]  21:08:23 Uxi crits a Frosch Researcher 2248 pts
+[Combat]  21:08:23 A Frosch Researcher misses (dodge)
+[Combat]  21:08:23 Uxi hits (blocked) a Frosch Researcher 95 pts
+[Combat]  21:08:24 A Frosch Researcher misses (dodge)
+[Combat]  21:08:24 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:08:24 Uxi strikes through a Frosch Researcher 2160 pts
+[Combat]  21:08:24 Uxi crits a Frosch Researcher 181 pts
+[Combat]  21:08:24 Uxi hits a Frosch Researcher 3404 pts
+[Combat]  21:08:25 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:08:25 Uxi hits a Frosch Researcher 2671 pts
+[Combat]  21:08:26 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:08:26 Uxi hits (blocked) a Frosch Researcher 99 pts
+[Combat]  21:08:26 Uxi crits a Frosch Researcher 1343 pts
+[Combat]  21:08:27 Uxi strikes through a Frosch Researcher 2208 pts
+[Combat]  21:08:27 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:08:28 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:08:28 Uxi has caused a Frosch Researcher to take 471 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Combat]  21:08:28 Uxi crits a Frosch Researcher 368 pts
+[Combat]  21:08:28 Uxi hits a Frosch Researcher 1571 pts
+[Combat]  21:08:28 Uxi crits a Frosch Researcher 5107 pts
+[Combat]  21:08:28 Uxi has caused a Frosch Researcher to take 708 points of fire damage. (150 absorbed)
+[Combat]  21:08:28 Uxi has caused a Frosch Researcher to take 330 points of fire damage. (70 absorbed)
+[Combat]  21:08:28 Uxi has caused a Frosch Researcher to take 471 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Combat]  21:08:29 Uxi hits a Frosch Researcher 156 pts
+[Combat]  21:08:29 Uxi hits a Frosch Researcher 2625 pts
+[Combat]  21:08:29 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:08:30 A Frosch Researcher misses (dodge)
+[Combat]  21:08:30 Uxi crits a Frosch Researcher 338 pts
+[Combat]  21:08:30 Uxi hits a Frosch Researcher 953 pts
+[Combat]  21:08:31 Uxi has caused a Frosch Researcher to take 720 points of fire damage. (150 absorbed)
+[Combat]  21:08:31 Uxi has caused a Frosch Researcher to take 336 points of fire damage. (70 absorbed)
+[Combat]  21:08:31 Uxi has caused a Frosch Researcher to take 471 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Combat]  21:08:31 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:08:31 Uxi crits a Frosch Researcher 2765 pts
+[Chat]  21:08:31 You have completely looted the corpse of all items.
+[Chat]  21:08:31 You looted 1 credits.
+[Combat]  21:08:32 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:08:32 Uxi hits a Frosch Researcher 283 pts
+[Combat]  21:08:33 Uxi has caused a Frosch Researcher to take 471 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Chat]  21:08:33 You have completely looted the corpse of all items.
+[Chat]  21:08:33 You looted 1 credits.
+[Chat]  21:08:33 You find nothing else of value on the selected corpse.
+[Chat]  21:08:33 You cannot do that while in combat.
+[Combat]  21:08:34 A Frosch Researcher misses (dodge)
+[Combat]  21:08:35 Uxi has caused a Frosch Researcher to take 24 points of bleeding damage. (117 absorbed / 447 resisted. )
+[Combat]  21:08:36 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:08:37 Uxi has caused a Frosch Researcher to take 471 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Chat]  21:08:37 No bounty is offered on that target.
+[Combat]  21:08:38 A Frosch Researcher misses (dodge)
+[Combat]  21:08:38 Uxi hits a Frosch Researcher 976 pts
+[Combat]  21:08:38 Uxi hits a Frosch Researcher 2519 pts
+[Combat]  21:08:39 Uxi has caused a Frosch Researcher to take 480 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Combat]  21:08:39 Uxi hits a Frosch Researcher 3040 pts
+[Combat]  21:08:39 Uxi hits a Frosch Researcher 1629 pts
+[Combat]  21:08:40 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:08:40 Uxi crits a Frosch Researcher 2501 pts
+[Combat]  21:08:41 Uxi has caused a Frosch Researcher to take 480 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Combat]  21:08:41 Uxi has caused a Frosch Researcher to take 330 points of fire damage. (70 absorbed)
+[Combat]  21:08:41 Uxi crits a Frosch Researcher 1495 pts
+[Combat]  21:08:42 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:08:42 Uxi hits a Frosch Researcher 1291 pts
+[Combat]  21:08:43 Uxi has caused a Frosch Researcher to take 708 points of fire damage. (150 absorbed)
+[Combat]  21:08:43 Uxi has caused a Frosch Researcher to take 480 points of bleeding damage. (117 absorbed / 0 resisted. )
+[Combat]  21:08:43 Uxi has caused a Frosch Researcher to take 330 points of fire damage. (70 absorbed)
+[Combat]  21:08:43 Uxi crits a Frosch Researcher 1775 pts
+[Chat]  21:08:43 You have completely looted the corpse of all items.
+[Chat]  21:08:43 You looted 1 credits.
+[Chat]  21:08:43 You find nothing else of value on the selected corpse.
+[Chat]  21:08:43 You find nothing else of value on the selected corpse.
+[Chat]  21:08:44 You find nothing else of value on the selected corpse.
+[Chat]  21:08:44 You find nothing else of value on the selected corpse.
+[Chat]  21:08:45 You can't see that object.  You may have to move closer to it.
+[Chat]  21:08:48 No bounty is offered on that target.
+[Chat]  21:08:49 No bounty is offered on that target.
+[Combat]  21:08:51 Uxi hits (blocked) a Frosch Researcher 653 pts
+[Combat]  21:08:51 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:08:51 Uxi strikes through a Frosch Researcher 3144 pts
+[Combat]  21:08:52 Uxi hits a Frosch Researcher 1926 pts
+[Combat]  21:08:53 Uxi hits (blocked) a Frosch Researcher 1402 pts
+[Combat]  21:08:53 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:08:53 A Frosch Researcher misses (dodge)
+[Combat]  21:08:53 Uxi hits a Frosch Researcher 879 pts
+[Combat]  21:08:53 Uxi hits a Frosch Researcher 1253 pts
+[Combat]  21:08:55 Uxi hits a Frosch Researcher 893 pts
+[Combat]  21:08:55 Uxi hits a Frosch Researcher 1232 pts
+[Combat]  21:08:55 Uxi performs Killing Spree.
+[Combat]  21:08:56 Uxi has caused a Frosch Researcher to take 330 points of fire damage. (70 absorbed)
+[Combat]  21:08:56 A Frosch Researcher misses (dodge)
+[Combat]  21:08:56 Uxi crits a Frosch Researcher 2410 pts
+[Combat]  21:08:57 A Frosch Researcher misses (dodge)
+[Combat]  21:08:57 Uxi hits a Frosch Researcher 155 pts
+[Combat]  21:08:57 Uxi strikes through a Frosch Researcher 616 pts
+[Combat]  21:08:57 Uxi crits a Frosch Researcher 434 pts
+[Combat]  21:08:57 Uxi hits a Frosch Researcher 399 pts
+[Combat]  21:08:57 Uxi hits a Frosch Researcher 3351 pts
+[Combat]  21:08:57 Uxi hits a Frosch Researcher 896 pts
+[Combat]  21:08:57 Uxi hits a Frosch Researcher 847 pts
+[Combat]  21:08:57 Uxi snaps off a free shot!
+[Combat]  21:08:57 Uxi hits a Frosch Researcher 462 pts
+[Combat]  21:08:57 Uxi strikes through a Frosch Researcher 703 pts
+[Combat]  21:08:57 Uxi crits a Frosch Researcher 439 pts
+[Combat]  21:08:58 Uxi hits a Frosch Researcher 152 pts
+[Combat]  21:08:58 Uxi crits a Frosch Researcher 548 pts
+[Combat]  21:08:58 Uxi snaps off a free shot!
+[Combat]  21:08:58 Uxi strikes through a Frosch Researcher 583 pts
+[Combat]  21:08:58 Uxi crits a Frosch Researcher 374 pts
+[Combat]  21:08:58 Uxi hits a Frosch Researcher 2592 pts
+[Combat]  21:08:58 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:08:58 Uxi hits a Frosch Researcher 1204 pts
+[Combat]  21:08:58 Uxi hits a Frosch Researcher 899 pts
+[Combat]  21:08:59 Uxi hits (blocked) a Frosch Researcher 346 pts
+[Combat]  21:08:59 Uxi snaps off a free shot!
+[Combat]  21:08:59 Uxi strikes through a Frosch Researcher 660 pts
+[Combat]  21:08:59 Uxi crits a Frosch Researcher 362 pts
+[Chat]  21:08:59 You have completely looted the corpse of all items.
+[Combat]  21:08:59 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Chat]  21:08:59 You looted 1 credits.
+[Chat]  21:08:59 You find nothing else of value on the selected corpse.
+[Chat]  21:09:00 You find nothing else of value on the selected corpse.
+[Combat]  21:09:00 Uxi hits a Frosch Researcher 1707 pts
+[Chat]  21:09:00 You find nothing else of value on the selected corpse.
+[Chat]  21:09:00 You find nothing else of value on the selected corpse.
+[Combat]  21:09:01 Uxi has caused a Frosch Researcher to take 696 points of fire damage. (150 absorbed)
+[Combat]  21:09:01 Uxi crits a Frosch Researcher 30 pts
+[Combat]  21:09:01 Uxi crits a Frosch Researcher 559 pts
+[Combat]  21:09:01 Uxi snaps off a free shot!
+[Combat]  21:09:01 Uxi strikes through a Frosch Researcher 571 pts
+[Combat]  21:09:01 Uxi hits a Frosch Researcher 502 pts
+[Combat]  21:09:01 Uxi crits a Frosch Researcher 4654 pts
+[Combat]  21:09:01 A Frosch Researcher misses (dodge)
+[Combat]  21:09:03 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:09:03 Uxi hits (evaded) a Frosch Researcher 959 pts
+[Combat]  21:09:03 Uxi hits a Frosch Researcher 491 pts
+[Combat]  21:09:03 Uxi strikes through a Frosch Researcher 625 pts
+[Combat]  21:09:04 Uxi crits a Frosch Researcher 565 pts
+[Chat]  21:09:04 You have completely looted the corpse of all items.
+[Chat]  21:09:04 You looted 1 credits.
+[Chat]  21:09:04 You find nothing else of value on the selected corpse.
+[Chat]  21:09:04 You find nothing else of value on the selected corpse.
+[Chat]  21:09:05 You find nothing else of value on the selected corpse.
+[Chat]  21:09:05 You find nothing else of value on the selected corpse.
+[Chat]  21:09:11 No bounty is offered on that target.
+[Combat]  21:09:12 Uxi crits a Frosch Guard 2817 pts
+[Combat]  21:09:12 A Frosch Guard misses (dodge)
+[Combat]  21:09:12 Uxi hits (blocked) a Frosch Guard 0 pts
+[Combat]  21:09:12 Uxi strikes through a Frosch Guard 3261 pts
+[Combat]  21:09:13 Uxi strikes through a Frosch Guard 4649 pts
+[Combat]  21:09:13 Uxi hits a Frosch Guard 1185 pts
+[Combat]  21:09:13 Uxi hits (blocked) a Frosch Guard 1505 pts
+[Combat]  21:09:14 Uxi has caused a Frosch Guard to take 708 points of fire damage. (150 absorbed)
+[Combat]  21:09:14 Uxi has caused a Frosch Guard to take 330 points of fire damage. (70 absorbed)
+[Combat]  21:09:14 A Frosch Guard hits (blocked) Uxi 0 pts
+[Combat]  21:09:14 Uxi hits a Frosch Guard 748 pts
+[Combat]  21:09:15 Uxi hits a Frosch Guard 1389 pts
+[Combat]  21:09:16 A Frosch Guard hits (blocked) Uxi 0 pts
+[Combat]  21:09:16 Uxi hits a Frosch Guard 1597 pts
+[Combat]  21:09:17 Uxi has caused a Frosch Guard to take 708 points of fire damage. (150 absorbed)
+[Combat]  21:09:17 Uxi has caused a Frosch Guard to take 330 points of fire damage. (70 absorbed)
+[Combat]  21:09:17 Uxi hits a Frosch Guard 172 pts
+[Combat]  21:09:17 Uxi crits a Frosch Guard 4648 pts
+[Chat]  21:09:18 You have completely looted the corpse of all items.
+[Combat]  21:09:18 Uxi hits a Frosch Guard 2823 pts
+[Chat]  21:09:18 You find nothing else of value on the selected corpse.
+[Chat]  21:09:18 You looted 1 credits.
+[Chat]  21:09:18 You find nothing else of value on the selected corpse.
+[Chat]  21:09:18 You find nothing else of value on the selected corpse.
+[Chat]  21:09:19 You find nothing else of value on the selected corpse.
+[Chat]  21:09:19 You find nothing else of value on the selected corpse.
+[Chat]  21:09:19 No bounty is offered on that target.
+[Chat]  21:09:20 The target is a dangerous fugitive in disguise!
+[Combat]  21:09:20 Oppio Sliveri (Fugitive: Thief) misses (dodge)
+[Combat]  21:09:22 Oppio Sliveri (Fugitive: Thief) misses (dodge)
+[Combat]  21:09:22 Uxi snaps off a free shot!
+[Combat]  21:09:22 Uxi strikes through Oppio Sliveri (Fugitive: Thief) 3725 pts
+[Combat]  21:09:23 Uxi hits Oppio Sliveri (Fugitive: Thief) 3116 pts
+[Combat]  21:09:24 Uxi snaps off a free shot!
+[Combat]  21:09:24 Uxi crits Oppio Sliveri (Fugitive: Thief) 2128 pts
+[Combat]  21:09:24 Oppio Sliveri (Fugitive: Thief) strikes through Uxi 0 pts
+[Combat]  21:09:25 A Frosch Researcher misses (dodge)
+[Combat]  21:09:26 Uxi has caused Oppio Sliveri (Fugitive: Thief) to take 708 points of fire damage. (150 absorbed)
+[Combat]  21:09:26 Oppio Sliveri (Fugitive: Thief) misses (dodge)
+[Combat]  21:09:27 Oppio Sliveri (Fugitive: Thief) misses
+[Combat]  21:09:27 Uxi crits Oppio Sliveri (Fugitive: Thief) 2157 pts
+[Combat]  21:09:28 Uxi has caused Oppio Sliveri (Fugitive: Thief) to take 708 points of fire damage. (150 absorbed)
+[Combat]  21:09:28 Uxi hits Oppio Sliveri (Fugitive: Thief) 3138 pts
+[Combat]  21:09:29 Oppio Sliveri (Fugitive: Thief) hits (blocked) Uxi 0 pts
+[Combat]  21:09:29 Uxi hits (blocked) Oppio Sliveri (Fugitive: Thief) 585 pts
+[Combat]  21:09:30 Uxi has caused Oppio Sliveri (Fugitive: Thief) to take 336 points of fire damage. (70 absorbed)
+[Combat]  21:09:30 Uxi has caused Oppio Sliveri (Fugitive: Thief) to take 720 points of fire damage. (150 absorbed)
+[Chat]  21:09:31 Transmission from the Bounty Hunters Guild: Completion of bounty confirmed, payment has been wired to your account.
+[Combat]  21:09:31 Oppio Sliveri (Fugitive: Thief) misses
+[Combat]  21:09:31 Uxi hits Oppio Sliveri (Fugitive: Thief) 1864 pts
+[Chat]  21:09:31 You have completely looted the corpse of all items.
+[Chat]  21:09:31 You find nothing else of value on the selected corpse.
+[Chat]  21:09:31 You looted 500 credits.
+[Combat]  21:09:32 A Frosch Researcher misses (dodge)
+[Combat]  21:09:33 Uxi hits a Frosch Researcher 832 pts
+[Combat]  21:09:34 Uxi hits a Frosch Researcher 1616 pts
+[Combat]  21:09:34 A Frosch Researcher misses (dodge)
+[Combat]  21:09:35 Uxi hits a Frosch Researcher 1008 pts
+[Combat]  21:09:35 Uxi crits a Frosch Researcher 162 pts
+[Combat]  21:09:35 Uxi hits (blocked) a Frosch Researcher 2319 pts
+[Combat]  21:09:36 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:09:37 Uxi has caused a Frosch Researcher to take 330 points of fire damage. (70 absorbed)
+[Combat]  21:09:37 Uxi snaps off a free shot!
+[Combat]  21:09:37 Uxi hits a Frosch Researcher 3551 pts
+[Combat]  21:09:38 Uxi hits a Frosch Researcher 1674 pts
+[Combat]  21:09:38 Uxi hits (evaded) a Frosch Researcher 609 pts
+[Combat]  21:09:38 A Frosch Researcher misses (dodge)
+[Combat]  21:09:39 Uxi has caused a Frosch Researcher to take 660 points of fire damage. (140 absorbed)
+[Combat]  21:09:39 Uxi hits a Frosch Researcher 1065 pts
+[Combat]  21:09:39 Uxi crits a Frosch Researcher 4127 pts
+[Combat]  21:09:41 A Frosch Researcher misses (dodge)
+[Combat]  21:09:41 Uxi has caused a Frosch Researcher to take 672 points of fire damage. (140 absorbed)
+[Combat]  21:09:41 Uxi hits (evaded) a Frosch Researcher 830 pts
+[Combat]  21:09:42 Uxi hits a Frosch Researcher 1365 pts
+[Chat]  21:09:42 You have completely looted the corpse of all items.
+[Chat]  21:09:42 You looted 1 credits.
+[Chat]  21:09:43 You find nothing else of value on the selected corpse.
+[Combat]  21:09:44 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:09:44 Uxi crits a Frosch Researcher 1463 pts
+[Combat]  21:09:45 Uxi strikes through a Frosch Researcher 3555 pts
+[Combat]  21:09:45 Uxi strikes through a Frosch Researcher 4760 pts
+[Combat]  21:09:45 Uxi hits a Frosch Researcher 1123 pts
+[Combat]  21:09:46 Uxi crits a Frosch Researcher 2414 pts
+[Combat]  21:09:46 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:09:46 Uxi hits a Frosch Researcher 904 pts
+[Combat]  21:09:47 Uxi snaps off a free shot!
+[Combat]  21:09:47 Uxi hits a Frosch Researcher 1095 pts
+[Combat]  21:09:48 Uxi hits a Frosch Researcher 1032 pts
+[Combat]  21:09:49 Uxi has caused a Frosch Researcher to take 708 points of fire damage. (150 absorbed)
+[Combat]  21:09:49 Uxi has caused a Frosch Researcher to take 330 points of fire damage. (70 absorbed)
+[Combat]  21:09:49 A Frosch Researcher hits (blocked) Uxi 0 pts
+[Combat]  21:09:49 Uxi hits a Frosch Researcher 1031 pts
+[Combat]  21:09:50 Uxi hits a Frosch Researcher 1295 pts
+[Chat]  21:09:53 You have completely looted the corpse of all items.
+[Chat]  21:09:53 corpse of a Frosch Researcher is too far away to 'Loot'.
+[Chat]  21:09:53 You looted 1 credits.
+[Chat]  21:09:53 You find nothing else of value on the selected corpse.
+[Chat]  21:09:54 [FRS Alert] Jedi: Norbella has been slain in combat by Jedi: Circular
+[Chat]  21:10:01 You have destroyed Unknown Crystal Fragment 5/10 (Collection).
+[Chat]  21:10:03 You have either already collected this item, or have not activated this collection yet.
+[Chat]  21:10:04 You have destroyed Kerenth (Collection).
+[Chat]  21:10:04 You have destroyed Unknown Crystal Fragment 8/10 (Collection).
+[Chat]  21:10:05 You have destroyed Unknown Crystal Fragment 3/10 (Collection).
+[Chat]  21:10:07 You have either already collected this item, or have not activated this collection yet.
+[Chat]  21:10:43 You have 30 seconds left until you may log out safely.
+[Chat]  21:10:48 You have 25 seconds left until you may log out safely.
+[Chat]  21:10:53 You have 20 seconds left until you may log out safely.
+[Chat]  21:10:57 Your attempt to log out safely has been aborted.
+[Combat]  21:10:58 A Frosch Guard misses (dodge)
+[Combat]  21:11:00 A Frosch Guard hits (blocked) Uxi 0 pts
+[Combat]  21:11:02 A Frosch Guard misses (dodge)
+[Combat]  21:11:04 A Frosch Guard misses (dodge)
+[Combat]  21:11:06 A Frosch Guard hits (blocked) Uxi 0 pts
+[Combat]  21:11:08 A Frosch Guard hits (blocked) Uxi 0 pts
+[Combat]  21:11:10 A Frosch Guard hits (blocked) Uxi 0 pts
+[Combat]  21:11:12 A Frosch Guard hits (blocked) Uxi 0 pts
+[Combat]  21:11:14 A Frosch Guard misses (dodge)
+[Combat]  21:11:16 A Frosch Guard hits (blocked) Uxi 0 pts
+[Combat]  21:11:18 A Frosch Guard misses (dodge)
+[Combat]  21:11:20 A Frosch Guard misses (dodge)
+[Chat]  21:11:21 No bounty is offered on that target.
+[Combat]  21:11:22 A Frosch Guard hits (blocked) Uxi 0 pts
+[Combat]  21:11:22 Uxi hits a Frosch Guard 1114 pts
+[Combat]  21:11:23 Uxi strikes through a Frosch Guard 3056 pts
+[Combat]  21:11:23 Uxi hits a Frosch Guard 3089 pts
+[Combat]  21:11:24 Uxi crits a Frosch Guard 2298 pts
+[Combat]  21:11:24 A Frosch Guard misses (dodge)
+[Combat]  21:11:24 Uxi hits a Frosch Guard 1763 pts
+[Combat]  21:11:25 Uxi crits a Frosch Guard 1463 pts
+[Combat]  21:11:26 Uxi has caused a Frosch Guard to take 330 points of fire damage. (70 absorbed)
+[Combat]  21:11:26 A Frosch Guard hits (blocked) Uxi 0 pts
+[Combat]  21:11:27 Uxi hits a Frosch Guard 1188 pts
+[Combat]  21:11:27 Uxi hits a Frosch Guard 3042 pts
+[Combat]  21:11:28 Uxi hits a Frosch Guard 2560 pts
+[Combat]  21:11:28 A Frosch Guard hits (blocked) Uxi 0 pts
+[Combat]  21:11:28 Uxi crits a Frosch Guard 1579 pts
+[Combat]  21:11:29 Uxi has caused a Frosch Guard to take 336 points of fire damage. (70 absorbed)
+[Combat]  21:11:30 Uxi hits a Frosch Guard 1940 pts
+Logging In [Fri Apr 26 19:39:59 2024] 
+Logging In [Sat Apr 27 08:41:02 2024] 
+Logging In [Sat Apr 27 16:35:44 2024] 
+Logging In [Sat Apr 27 17:20:24 2024] 
