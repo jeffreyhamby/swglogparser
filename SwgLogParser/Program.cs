@@ -23,6 +23,8 @@ namespace SwgLogParser
                 , "performs" //buffs
                 , "set a Rallypoint"
                 , "healing:["
+                , "Channel listing complete"
+                , "has gone offline"
             };
 
             //strings found in lines based on offensive abilities
@@ -43,6 +45,9 @@ namespace SwgLogParser
                 , "resisted"
                 , "strikes through"
                 , "misses"
+                , "drains life"
+                , "has taken "
+                , "punishing blows "
             };
 
             StreamReader reader = File.OpenText(@"C:\Development\swglogparser\sampleLogs\5378010400_chatlog.txt");
@@ -90,10 +95,9 @@ namespace SwgLogParser
 
                     }
 
-
-
                 }
             }
+
             WriteFile(offenseItems, "offenseItems.txt");
             WriteFile(defenseItems, "defenseItems.txt");
             WriteFile(skippedItems, "skippedItems.txt");
