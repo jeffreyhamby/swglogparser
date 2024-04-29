@@ -70,7 +70,7 @@ namespace SwgLogParser
                         {
                             logItem.restOfIt = line.Substring(18);
                             offenseItems.Add(logItem);
-
+                          
                         };
 
                         if (defenseStrings.Any(line.Contains))
@@ -86,16 +86,26 @@ namespace SwgLogParser
                             logItem.restOfIt = line.Substring(18);
                             skippedItems.Add(logItem);
 
-
                         };
-
-
-
 
                     }
 
 
 
+                }
+            }
+            WriteFile(offenseItems, "offenseItems.txt");
+            WriteFile(defenseItems, "defenseItems.txt");
+            WriteFile(skippedItems, "skippedItems.txt");
+        }
+
+        static void WriteFile(List<LogItem> items,string filename)
+        {
+            using (StreamWriter outputFile = new StreamWriter(Path.Combine(@"c:\temp\", filename)))
+            {
+                foreach(LogItem item in items)
+                {
+                    outputFile.WriteLine(item.restOfIt);
                 }
             }
         }
