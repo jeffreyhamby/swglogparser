@@ -39,7 +39,7 @@ namespace SwgLogParser
                 "has caused"
             };
 
-            StreamReader reader = File.OpenText(@"C:\SWG\SwgEvolveUpdated\app\profiles\rimy\Evolve\5378010400_chatlog.txt");
+            StreamReader reader = File.OpenText(@"C:\Development\swglogparser\sampleLogs\5378010400_chatlog.txt");
             string line;
             List<string> lines = new List<string>();
             List<string> offenseLines = new List<string>();
