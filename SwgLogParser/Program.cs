@@ -22,6 +22,7 @@ namespace SwgLogParser
                 , "group pickup point"
                 , "performs" //buffs
                 , "set a Rallypoint"
+                , "healing:["
             };
 
             //strings found in lines based on offensive abilities
@@ -30,6 +31,7 @@ namespace SwgLogParser
                 "hits"
                 , "crits"
                 , "glances"
+                , "but they are immune"
 
             };
 
@@ -37,21 +39,24 @@ namespace SwgLogParser
             string[] defenseStrings = new string[]
             {
                 "has caused"
+                , "dodge"
+                , "resisted"
+                , "strikes through"
+                , "misses"
             };
 
             StreamReader reader = File.OpenText(@"C:\Development\swglogparser\sampleLogs\5378010400_chatlog.txt");
             string line;
             List<string> lines = new List<string>();
-            List<string> offenseLines = new List<string>();
-            List<string> defenseLines = new List<string>();
-            List<LogItem> logItems = new List<LogItem>();
+            List<LogItem> offenseItems = new List<LogItem>();
+            List<LogItem> defenseItems = new List<LogItem>();
+            List<LogItem> skippedItems = new List<LogItem>();
 
             while ((line = reader.ReadLine()) != null)
             {
                 if (line.StartsWith("[Combat]"))
                 {
-                    string timeStamp = line.Substring(10, 8);
-                    Console.WriteLine(line.Substring(18));
+                    //Console.WriteLine(line.Substring(18));
                     if (!avoidStrings.Any(line.Contains)) 
                     {
                         lines.Add(line);
@@ -63,30 +68,29 @@ namespace SwgLogParser
 
                         if (offenseStrings.Any(line.Contains))
                         {
-                            logItem.offensive = true;
                             logItem.restOfIt = line.Substring(18);
-                            offenseLines.Add(line.Substring(18));
+                            offenseItems.Add(logItem);
+
                         };
 
                         if (defenseStrings.Any(line.Contains))
                         {
-                            logItem.defensive = true;
                             logItem.restOfIt = line.Substring(18);
-                            defenseLines.Add(line.Substring(18));
+                            defenseItems.Add(logItem);
                         };
 
 
                         //trap missing lines to find bugs based on the kludgy string manipulation
                         if (!defenseStrings.Any(line.Contains) && !offenseStrings.Any(line.Contains))
                         {
-                            logItem.notSure = true;
                             logItem.restOfIt = line.Substring(18);
-                            
+                            skippedItems.Add(logItem);
+
+
                         };
 
 
 
-                        logItems.Add(logItem);
 
                     }
 
@@ -100,9 +104,6 @@ namespace SwgLogParser
     public class LogItem
     {
         public string timestamp { get; set; }
-        public bool offensive { get; set; }
-        public bool defensive { get; set; }   
-        public bool notSure { get; set; }
         public string restOfIt { get; set; }
 
 
